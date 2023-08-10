@@ -1,0 +1,22 @@
+{
+  "name": "proyectohospital",
+  "version": "1.0.0",
+  "description": "proyectoDeHospital",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelPeraza12/proyectoHospital.git"
+  },
+  "author": "Angel Peraza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngelPeraza12/proyectoHospital/issues"
+  },
+  "homepage": "https://github.com/AngelPeraza12/proyectoHospital#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
